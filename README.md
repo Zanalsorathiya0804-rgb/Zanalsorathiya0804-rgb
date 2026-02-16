@@ -23,7 +23,7 @@
 
 ###  Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,js,sql,html,css" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,html,css" />
 </p>
 
 ### ⚙️ Frameworks & Tools
@@ -35,7 +35,7 @@
 
 ##  Featured Projects
 
-### 🚍 Dynamic Public Transport Route Optimizer
+###  Dynamic Public Transport Route Optimizer
 - Built fastest route finder using **Dijkstra Algorithm**
 - Interactive map UI using React
 - C++ backend optimization
