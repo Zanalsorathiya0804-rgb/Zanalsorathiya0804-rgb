@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.png" width="180" style="border-radius:50%;" />
+  <img src="https://www.pinterest.com/pin/48413764740999092/" width="200" style="border-radius:50%; border:4px solid #4F46E5;" />
 </p>
 
 <!-- PROFILE HEADER -->
