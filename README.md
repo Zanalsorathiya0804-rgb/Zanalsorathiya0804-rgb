@@ -64,9 +64,9 @@
 
 ##  Experience
 
-✔ Open Source Contributor – SWOC & GSSoC  
-✔ Frontend Development Intern – Apex Planet  
-✔ Worked with Git, Issues, PRs, Community Collaboration  
+ Open Source Contributor – SWOC & GSSoC  
+ Frontend Development Intern – Apex Planet  
+ Worked with Git, Issues, PRs, Community Collaboration  
 
 ---
 
@@ -78,9 +78,9 @@ Data Structures • OOP • DBMS • OS • CN • ML • Web Dev
 
 ##  Certifications
 
-🎖 Microsoft AI-900 Azure AI Fundamentals  
-🎖 Infosys Springboard – SQL Certification  
-🎖 Google Arcade Champion 2025  
+ Microsoft AI-900 Azure AI Fundamentals  
+ Infosys Springboard – SQL Certification  
+ Google Arcade Champion 2025  
 
 ---
 
