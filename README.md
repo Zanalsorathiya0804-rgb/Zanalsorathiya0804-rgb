@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.21kschool.com/ua/blog/coding-for-kids/" width="200" style="border-radius:50%; border:4px solid #4F46E5;" />
+  <img src="https://i.imgur.com/8Km9tLL.png" width="180" style="border-radius:50%;" />
 </p>
 
 <!-- PROFILE HEADER -->
