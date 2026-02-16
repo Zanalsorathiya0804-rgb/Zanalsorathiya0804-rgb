@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Zanal Sorathiya</h1>
-<h3 align="center">🚀 CSE Student | DSA Enthusiast | Full Stack Developer | Open Source Contributor</h3>
+<h1 align="center">Hi , I'm Zanal Sorathiya</h1>
+<h3 align="center"> CSE Student | DSA Enthusiast | Full Stack Developer | Open Source Contributor</h3>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -9,19 +9,19 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
-🎓 B.Tech Computer Science Student (CGPA: **8.48**)  
-🏫 Parul University, Gujarat  
-💻 Passionate about **Data Structures, Algorithms & Development**  
-🌱 Currently learning **System Design & Advanced DSA**  
-🎯 Goal: Become a **Software Engineer at Top Tech Company**
+ B.Tech Computer Science Student (CGPA: **8.48**)  
+ Parul University, Gujarat  
+ Passionate about **Data Structures, Algorithms & Development**  
+ Currently learning **System Design & Advanced DSA**  
+ Goal: Become a **Software Engineer at Top Tech Company**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+###  Languages
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,js,sql,html,css" />
 </p>
@@ -33,7 +33,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🚍 Dynamic Public Transport Route Optimizer
 - Built fastest route finder using **Dijkstra Algorithm**
@@ -44,7 +44,7 @@
 
 ---
 
-### 🍽️ DineSync – Smart Restaurant System
+###  DineSync – Smart Restaurant System
 - Real-time table booking & menu management
 - React + C++ (Crow) + SQL backend
 - Dynamic availability tracking
@@ -53,7 +53,7 @@
 
 ---
 
-### 🧠 SnapSort – AI Photo Organizer
+###  SnapSort – AI Photo Organizer
 - Built offline image clustering system
 - Used OpenCV + DSA
 - Image deduplication & tagging
@@ -62,7 +62,7 @@
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ✔ Open Source Contributor – SWOC & GSSoC  
 ✔ Frontend Development Intern – Apex Planet  
@@ -70,13 +70,13 @@
 
 ---
 
-## 📚 Coursework
+##  Coursework
 
 Data Structures • OOP • DBMS • OS • CN • ML • Web Dev
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 🎖 Microsoft AI-900 Azure AI Fundamentals  
 🎖 Infosys Springboard – SQL Certification  
@@ -84,7 +84,7 @@ Data Structures • OOP • DBMS • OS • CN • ML • Web Dev
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Zanalsorathiya0804-rgb&show_icons=true&theme=tokyonight">
@@ -92,7 +92,7 @@ Data Structures • OOP • DBMS • OS • CN • ML • Web Dev
 
 ---
 
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com/?user=Zanalsorathiya0804-rgb&theme=tokyonight">
@@ -100,19 +100,11 @@ Data Structures • OOP • DBMS • OS • CN • ML • Web Dev
 
 ---
 
-## 📈 Top Languages
+##  Top Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanalsorathiya0804-rgb&layout=compact&theme=tokyonight">
 </p>
-
----
-
-## 🧑‍💻 Coding Profiles
-
-🔹 LeetCode: https://leetcode.com/u/zanal_sorathiya/  
-🔹 GeeksforGeeks: https://www.geeksforgeeks.org/user/zanalsorat52lg/  
-🔹 Codolio: https://codolio.com/profile/rRQEydk  
 
 ---
 
@@ -131,4 +123,4 @@ Data Structures • OOP • DBMS • OS • CN • ML • Web Dev
 
 ---
 
-⭐️ From Zanal Sorathiya | Keep Learning & Building 🚀
+ From Zanal Sorathiya | Keep Learning & Building 
