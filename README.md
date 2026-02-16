@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ###  Languages
 <p>
@@ -100,22 +100,14 @@ Data Structures • OOP • DBMS • OS • CN • ML • Web Dev
 
 ---
 
-##  Top Languages
+##  Connect With Me
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanalsorathiya0804-rgb&layout=compact&theme=tokyonight">
-</p>
-
----
-
-## 🌐 Connect With Me
-
-📧 Email: zanalsorathiya8405@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/zanal-sorathiya-bb2990274  
+ Email: zanalsorathiya8405@gmail.com  
+ LinkedIn: https://linkedin.com/in/zanal-sorathiya-bb2990274  
 
 ---
 
-## 👀 Profile Visitors
+## Profile Visitors
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Zanalsorathiya0804-rgb&color=blueviolet">
