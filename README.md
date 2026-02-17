@@ -26,7 +26,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css" />
 </p>
 
-### ⚙️ Frameworks & Tools
+###  Frameworks & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=react,mysql,mongodb,git,github,vscode" />
 </p>
